@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Poppins:wght@200;300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.first{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    background-color: rgb(240, 6, 6);
+    
+}
+.build{
+    border:none;
+    border-radius: 0px 60px 0px 60px;
+    margin-bottom: 30px;
+    padding: 10px 40px 10px 40px ;
+    margin-top: 40px;
+    background-color: rgb(240,6,6);
+}
+.image{
+   
+    margin-top: 152px;
+    margin-left: 350px;
+    margin-right: 10px;
+    font-size: 15px;
+    word-spacing: 18px;
+}
+#photo{
+    width: 190px;
+    height: 141px;
+
+}
+#ok{
+    font-size: 15px;
+    font-weight: bolder;
+    word-spacing: 43px;
+}
+#me{
+    width: 300px;
+    height: 420px;
+    margin-left: 520px;
+  position: relative;
+}
+.bloc{
+    position:absolute;
+    top: 200px;
+    margin-left: 20px;
+    
+}
+#para{
+    
+word-spacing: 20px;
+font-size: 30px;
+text-align: justify;
+}
+a:link {
+    padding-right: 40px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+span{
+    color:rgb(245, 16, 16);
+    font-weight: bolder;
+    
+}
+#name{
+    font-size: 120px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: white;
+       
+       
+}
+.roman{
+    background-color: black;
+    text-align: center;
+    padding-left: 350px;
+    margin-top: 100px;
+    padding-bottom: 130px;
+    padding-top: 100px;
+}
+.cauver{
+    padding-top: 50px;
+    margin-top: 60px;
+
+}
+.manal{
+    float: left;
+    width: 300px;
+    height: 600px;
+    margin-top: 100px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding-left: 100px;
+
+}
+.foot{
+background-image: url(images/WhatsApp\ Image\ 2023-03-10\ at\ 23.59.57.jpeg);
+opacity: 0.5;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 200px;
+padding-bottom: 100px;
+text-align: center;
+}
+.end{
+    padding-top: 110px;
+}
+.container-fluid{
+    margin-bottom: 40px;
+}
+.sun{
+    position: absolute;
+   color: red;
+    margin-left:810px;
+    margin-top: 5px;
+
+    
+}
+.just{
+    text-align: justify;
+}
